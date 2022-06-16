@@ -1,5 +1,5 @@
 let nome = 'Thainá';
-let numero = 23;
+let numero = 22;
 let ano = 2022 - numero;
 console.log(nome, numero, ano);
 console.log("Estou mexendo no console.log");
